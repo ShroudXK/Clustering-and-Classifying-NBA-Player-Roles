@@ -1,0 +1,660 @@
+Player,Team,Age,Pos,Height,Weight,GP,PTS,REB,AST
+Bogdan Bogdanović,ATL,32,SG / SF,6-5,225,24,10,2.8,2
+Caris LeVert,ATL,30,SG / SF,6-6,205,26,14.9,3.7,2.9
+Clint Capela,ATL,31,C,6-10,256,55,8.9,8.5,1.1
+Daeqwon Plowden,ATL,26,SG / SF,6-6,216,6,7.2,1.8,0.3
+David Roddy,HOU,24,SF / PF,6-4,255,27,4.5,2.6,1.1
+De'Andre Hunter,CLE,27,SF,6-8,221,37,19,3.9,1.5
+Dominick Barlow,ATL,22,PF,6-8,215,35,4.2,2.4,0.5
+Dyson Daniels,ATL,22,PG / SG,6-7,199,76,14.1,5.9,4.4
+Garrison Mathews,ATL,28,SG,6-6,215,47,7.5,1.9,1.3
+Georges Niang,ATL,32,PF,6-7,230,28,12.1,3,1.6
+Jacob Toppin,ATL,25,SF,6-8,200,1,17,4,2
+Jalen Johnson,ATL,23,SF / PF,6-8,219,36,18.9,10,5
+Keaton Wallace,ATL,26,PG / SG,6-3,185,31,5.4,1.6,2.6
+Kobe Bufkin,ATL,21,SG,6-4,195,10,5.3,2.1,1.7
+Larry Nance Jr.,ATL,32,PF / C,6-8,245,24,8.5,4.3,1.6
+Mouhamed Gueye,ATL,22,PF,6-10,210,33,6,4.2,0.8
+Onyeka Okongwu,ATL,24,C / PF,6-10,240,74,13.4,8.9,2.3
+Terance Mann,ATL,28,SF / SG,6-5,215,30,9.8,3.1,2.1
+Trae Young,ATL,26,PG,6-1,164,76,24.2,3.1,11.6
+Vít Krejčí,ATL,25,PG / SG,6-8,195,57,7.2,2.7,2.6
+Zaccharie Risacher,ATL,20,SF,6-8,200,75,12.6,3.6,1.2
+Al Horford,BOS,39,C / PF,6-9,240,60,9,6.2,2.1
+Baylor Scheierman,BOS,24,SG,6-6,205,31,3.6,2.1,1.1
+Derrick White,BOS,30,SG / PG,6-4,190,76,16.4,4.5,4.8
+Drew Peterson,BOS,25,SF / PF,6-9,205,25,2.2,1.6,0.5
+JD Davison,BOS,22,PG / SG,6-1,195,16,2.1,0.8,0.8
+Jaden Springer,UTA,22,SG / PG,6-4,202,26,1.7,0.9,0.4
+Jaylen Brown,BOS,28,SG / SF,6-6,223,63,22.2,5.8,4.5
+Jayson Tatum,BOS,27,SF / PF,6-8,210,72,26.8,8.7,6
+Jordan Walsh,BOS,21,SF / PF,6-6,205,52,1.6,1.3,0.4
+Jrue Holiday,BOS,35,PG / SG,6-4,205,62,11.1,4.3,3.9
+Kristaps Porziņģis,BOS,29,PF / C,7-2,240,42,19.5,6.8,2.1
+Luke Kornet,BOS,29,C / PF,7-1,250,73,6,5.3,1.6
+Miles Norris,BOS,25,PG / SG,6-7,220,3,2.3,3,0
+Neemias Queta,BOS,25,SF / SG,7-0,248,62,5,3.8,0.7
+Payton Pritchard,BOS,27,PF / SF,6-1,195,80,14.3,3.8,3.5
+Sam Hauser,BOS,27,PF,6-7,217,71,8.5,3.2,0.9
+Torrey Craig,BOS,34,PG / SF,6-5,221,17,2.7,2.8,0.7
+Xavier Tillman,BOS,26,SG,6-7,245,33,1,1.3,0.2
+Ben Simmons,LAC,28,SF / PF,6-10,240,33,6.2,5.2,6.9
+Cam Thomas,BKN,23,SG,6-3,210,25,24,3.3,3.8
+Cameron Johnson,BKN,29,PG / SG,6-8,210,57,18.8,4.3,3.4
+Cui Cui,BKN,22,SG,6-5,190,5,0.6,0.4,0
+D'Angelo Russell,BKN,29,PG / SG,6-3,193,29,12.9,2.8,5.6
+Dariq Whitehead,BKN,20,SG / SF,6-6,220,20,5.7,1.5,0.6
+Day'Ron Sharpe,BKN,23,C / PF,6-9,265,50,7.9,6.6,1.8
+Dennis Schröder,DET,31,PG,6-1,175,23,18.4,3,6.6
+Dorian Finney-Smith,LAL,32,SF / PF,6-7,220,20,10.4,4.6,1.6
+Drew Timme,BKN,24,PF / C,6-10,235,9,12.1,7.2,2.2
+Jalen Wilson,BKN,24,SF / PF,6-6,220,79,9.5,3.4,1.8
+Jaylen Martin,WAS,21,SG / SF,6-6,216,3,1,0,0
+Keon Johnson,BKN,23,SG / PG,6-5,185,79,10.6,3.8,2.2
+Killian Hayes,BKN,23,PG / SG,6-5,195,6,9,3,5.2
+Maxwell Lewis,BKN,22,SF,6-7,215,21,5.3,2.5,0.8
+Nic Claxton,BKN,26,C / PF,6-11,215,70,10.3,7.4,2.2
+Noah Clowney,BKN,20,PF,6-9,210,46,9.1,3.9,0.9
+Reece Beekman,BKN,23,PG,6-3,190,34,2.7,1.1,1.8
+Shake Milton,LAL,28,SG / PG,6-5,205,27,7.4,1.9,2.4
+Tosan Evbuomwan,BKN,24,SF / PF,6-7,217,28,9.5,4.3,2
+Trendon Watford,BKN,24,PF / SF,6-8,237,44,10.2,3.6,2.6
+Tyrese Martin,BKN,26,SG / SF,6-6,215,60,8.7,3.7,2
+Tyson Etienne,BKN,25,PG / SG,6-2,200,7,7.9,1.3,1.7
+Ziaire Williams,BKN,23,SF,6-9,185,63,10,4.6,1.3
+Brandon Miller,CHA,22,SF / PF,6-7,200,27,21,4.9,3.6
+Cody Martin,PHX,29,SG / SF,6-6,205,39,7.8,4.5,2.3
+DaQuan Jeffries,CHA,27,SG / SF,6-5,222,47,6.7,2.9,1.1
+Damion Baugh,CHA,24,PG / SG,6-4,194,15,7.3,3.3,3.7
+Elfrid Payton,NOP,31,PG,6-3,195,6,1,2.2,3.3
+Grant Williams,CHA,26,PF,6-6,236,16,10.4,5.1,2.3
+Isaiah Wong,CHA,24,PG / SG,6-3,185,20,6,1.6,1.4
+Jared Rhoden,TOR,25,SG / SF,6-5,210,4,1,1,0.5
+Jaylen Sims,CHA,26,SG / SF,6-6,210,6,7,1,2
+Josh Green,CHA,24,SG / SF,6-5,200,68,7.4,2.5,1.6
+Josh Okogie,CHA,26,SG / SF,6-4,213,15,8.9,2.7,1.3
+Jusuf Nurkić,CHA,30,C,7-0,290,26,9.2,6.5,2.6
+KJ Simpson,CHA,22,PG,6-0,189,36,7.8,3,3.1
+LaMelo Ball,CHA,23,PG,6-7,180,47,25.2,4.9,7.4
+Malachi Flynn,SAS,27,PG,6-1,185,4,4,1.8,1.8
+Marcus Garrett,CHA,26,PG / SG,6-5,205,4,7,1.5,3.3
+Mark Williams,CHA,23,C,7-0,240,44,15.3,10.2,2.5
+Miles Bridges,CHA,27,SF / PF,6-7,225,64,20.3,7.5,3.9
+Moussa Diabaté,CHA,23,PF / C,6-9,210,71,5.7,6.2,0.8
+Nick Richards,PHX,27,C,7-0,245,21,8.9,7.5,1.3
+Nick Smith Jr.,CHA,21,PG / SG,6-2,185,60,9.9,2.1,2.4
+Seth Curry,CHA,34,SG / PG,6-1,185,68,6.5,1.7,0.9
+Taj Gibson,CHA,40,PF / C,6-9,232,37,2.9,3.2,0.6
+Tidjane Salaün,CHA,19,SF / PF,6-8,207,60,5.9,4.7,1.2
+Tre Mann,CHA,24,PG,6-3,178,13,14.1,2.9,3
+Vasilije Micic,PHX,31,PG,6-3,188,36,7.5,2.4,3.5
+Wendell Moore Jr.,CHA,23,SG / SF,6-5,215,16,5.4,3.2,1.2
+Brandon Miller,CHA,22,SF / PF,6-7,200,27,21,4.9,3.6
+Cody Martin,PHX,29,SG / SF,6-6,205,39,7.8,4.5,2.3
+DaQuan Jeffries,CHA,27,SG / SF,6-5,222,47,6.7,2.9,1.1
+Damion Baugh,CHA,24,PG / SG,6-4,194,15,7.3,3.3,3.7
+Elfrid Payton,NOP,31,PG,6-3,195,6,1,2.2,3.3
+Grant Williams,CHA,26,PF,6-6,236,16,10.4,5.1,2.3
+Isaiah Wong,CHA,24,PG / SG,6-3,185,20,6,1.6,1.4
+Jared Rhoden,TOR,25,SG / SF,6-5,210,4,1,1,0.5
+Jaylen Sims,CHA,26,SG / SF,6-6,210,6,7,1,2
+Josh Green,CHA,24,SG / SF,6-5,200,68,7.4,2.5,1.6
+Josh Okogie,CHA,26,SG / SF,6-4,213,15,8.9,2.7,1.3
+Jusuf Nurkić,CHA,30,C,7-0,290,26,9.2,6.5,2.6
+KJ Simpson,CHA,22,PG,6-0,189,36,7.8,3,3.1
+LaMelo Ball,CHA,23,PG,6-7,180,47,25.2,4.9,7.4
+Malachi Flynn,SAS,27,PG,6-1,185,4,4,1.8,1.8
+Marcus Garrett,CHA,26,PG / SG,6-5,205,4,7,1.5,3.3
+Mark Williams,CHA,23,C,7-0,240,44,15.3,10.2,2.5
+Miles Bridges,CHA,27,SF / PF,6-7,225,64,20.3,7.5,3.9
+Moussa Diabaté,CHA,23,PF / C,6-9,210,71,5.7,6.2,0.8
+Nick Richards,PHX,27,C,7-0,245,21,8.9,7.5,1.3
+Nick Smith Jr.,CHA,21,PG / SG,6-2,185,60,9.9,2.1,2.4
+Seth Curry,CHA,34,SG / PG,6-1,185,68,6.5,1.7,0.9
+Taj Gibson,CHA,40,PF / C,6-9,232,37,2.9,3.2,0.6
+Tidjane Salaün,CHA,19,SF / PF,6-8,207,60,5.9,4.7,1.2
+Tre Mann,CHA,24,PG,6-3,178,13,14.1,2.9,3
+Vasilije Micic,PHX,31,PG,6-3,188,36,7.5,2.4,3.5
+Wendell Moore Jr.,CHA,23,SG / SF,6-5,215,16,5.4,3.2,1.2
+Caris LeVert,ATL,30,SG / SF,6-6,205,38,10.2,2.8,3.7
+Chuma Okeke,CLE,26,PF / SF,6-7,229,2,2.5,2,1
+Craig Porter Jr.,CLE,25,PG / SG,6-1,180,51,3.7,1.3,1.4
+Darius Garland,CLE,25,PG,6-1,192,75,20.6,2.9,6.7
+De'Andre Hunter,CLE,27,SF / PF,6-8,221,27,14.3,4.2,1.3
+Dean Wade,CLE,28,PF / SF,6-9,228,59,5.4,4.2,1.3
+Donovan Mitchell,CLE,28,SG / PG,6-3,215,71,24,4.5,5
+Emoni Bates,CLE,21,SF,6-8,202,10,3.7,0.7,0.8
+Evan Mobley,CLE,24,PF / C,6-11,215,71,18.5,9.3,3.2
+Georges Niang,ATL,32,PF,6-7,230,51,8.7,3.7,1.3
+Isaac Okoro,CLE,24,SF / SG,6-5,225,55,6.1,2.4,1.2
+JT Thor,WAS,22,PF,6-9,203,9,3.1,0.7,0.1
+Jarrett Allen,CLE,27,C,6-9,243,82,13.5,9.7,1.9
+Javonte Green,CLE,31,SG / SF,6-5,205,18,3.3,2.2,0.6
+Jaylon Tyson,CLE,22,SG / SF,6-6,215,47,3.6,2,0.9
+Luke Travers,CLE,23,SG / SF,6-7,207,12,1,1.7,0.7
+Max Strus,CLE,29,SG / SF,6-5,215,50,9.4,4.3,3.2
+Nae'Qwan Tomlin,CLE,24,PF,6-10,210,5,7.2,4.2,0.4
+Sam Merrill,CLE,29,SG,6-4,205,71,7.2,2.2,1.5
+Tristan Thompson,CLE,34,C,6-9,254,40,1.7,3.4,0.6
+Ty Jerome,CLE,27,PG / SG,6-5,195,70,12.5,2.5,3.4
+Anthony Davis,DAL,32,PF / C,6-10,253,9,20,10.1,4.4
+Brandon Williams,DAL,25,PG,6-1,190,33,8.3,1.8,2.3
+Caleb Martin,DAL,29,SF / PF,6-5,205,14,5.4,2.9,1.9
+Daniel Gafford,DAL,26,C,6-10,265,57,12.3,6.8,1.4
+Danté Exum,DAL,29,PG / SG,6-5,214,20,8.7,1.7,2.8
+Dereck Lively II,DAL,21,C,7-1,230,36,8.7,7.5,2.4
+Dwight Powell,DAL,33,C / PF,6-10,240,55,2.1,2.1,1
+Jaden Hardy,DAL,22,SG / PG,6-3,198,57,8.7,1.6,1.4
+Jazian Gortman,DAL,22,PG / SG,6-2,184,16,1.5,0.3,0.4
+Kai Jones,DAL,24,PF / C,6-11,221,12,11.4,6.6,1.3
+Kessler Edwards,DAL,24,SF / PF,6-7,203,40,4.2,2.9,1.1
+Klay Thompson,DAL,35,SG / SF,6-5,220,72,14,3.4,2
+Kylor Kelley,LAL,27,C,7-0,215,8,3,2.6,0.3
+Kyrie Irving,DAL,33,PG,6-2,195,50,24.7,4.8,4.6
+Luka Dončić,LAL,26,PG / SG / SF,6-6,230,22,28.1,8.3,7.8
+Markieff Morris,LAL,35,PF / C,6-9,245,7,1.7,1.1,0.6
+Max Christie,DAL,22,SG / SF,6-5,190,32,11.2,4.2,2.5
+Maxi Kleber,LAL,33,PF / C,6-10,240,34,3,2.8,1.3
+Moses Brown,DAL,25,C,7-2,258,4,11.8,7.8,0.5
+Naji Marshall,DAL,27,SF / SG,6-6,220,69,13.2,4.8,3
+Olivier-Maxence Prosper,DAL,22,SF / PF,6-7,230,52,3.9,2.4,0.8
+P.J. Washington,DAL,26,PF / C,6-6,230,57,14.7,7.8,2.3
+Quentin Grimes,PHI,25,SG / SF,6-4,210,47,10.2,3.8,2.1
+Spencer Dinwiddie,DAL,32,PG / SG,6-5,215,79,11,2.6,4.4
+Aaron Gordon,DEN,29,PF / SF,6-8,235,51,14.7,4.8,3.2
+Christian Braun,DEN,24,SG / SF,6-6,220,79,15.4,5.2,2.6
+Dario Šarić,DEN,31,PF / C,6-10,225,16,3.5,3.1,1.4
+DeAndre Jordan,DEN,36,C,6-11,265,56,3.7,5.1,0.9
+Hunter Tyson,DEN,25,SF / PF,6-8,215,51,2.6,1.5,0.4
+Jalen Pickett,DEN,25,PG / SG,6-2,202,49,4.1,1.4,2.2
+Jamal Murray,DEN,28,PG / SG,6-4,215,67,21.4,3.9,6
+Julian Strawther,DEN,23,SG / SF,6-6,205,65,9,2.2,1.3
+Michael Porter Jr.,DEN,27,SF / PF,6-10,218,77,18.2,7,2.1
+Nikola Jokić,DEN,30,C,6-11,284,70,29.6,12.7,10.2
+PJ Hall,DEN,23,PF / C,6-10,245,19,1.7,1.2,0.2
+Peyton Watson,DEN,22,SF / PF,6-7,200,68,8.1,3.4,1.4
+Russell Westbrook,DEN,36,PG,6-4,200,75,13.3,4.9,6.1
+Spencer Jones,DEN,24,SF,6-7,225,20,1.3,0.9,0.3
+Trey Alexander,DEN,22,SG / PG,6-4,185,24,1.3,0.5,0.5
+Vlatko Čančar,DEN,28,PF / SF,6-8,236,13,1.8,2.5,0.7
+Zeke Nnaji,DEN,24,PF / C,6-9,240,57,3.2,1.6,0.4
+Alondes Williams,LAC,26,SG / PG,6-4,210,1,5,0,1
+Ausar Thompson,DET,22,SG / SF,6-6,205,59,10.1,5.1,2.3
+Bobi Klintman,DET,22,SF / PF,6-9,225,8,1.9,0.9,0.9
+Cade Cunningham,DET,23,PG / SG,6-6,220,70,26.1,6.1,9.1
+Cole Swider,IND,26,SF / PF,6-8,220,2,0,1,0.5
+Daniss Jenkins,DET,23,PG,6-3,165,7,1,0.3,0.4
+Dennis Schröder,DET,31,PG,6-1,175,28,10.8,2.6,5.3
+Isaiah Stewart,DET,24,PF / C,6-8,250,72,6,5.5,1.7
+Jaden Ivey,DET,23,SG / PG,6-4,195,30,17.6,4.1,4
+Jalen Duren,DET,21,C,6-10,250,78,11.8,10.3,2.7
+Lindy Waters III,DET,27,SG / SF,6-6,210,14,3.4,1,0.7
+Malik Beasley,DET,28,SG,6-4,187,82,16.3,2.6,1.7
+Marcus Sasser,DET,24,PG / SG,6-2,195,57,6.6,1.2,2.3
+Paul Reed,DET,26,PF / C,6-9,210,45,4.1,2.7,1
+Ron Harper Jr.,DET,25,SG / SF,6-4,233,1,4,7,2
+Ronald Holland II,DET,19,SF / SG,6-8,206,81,6.4,2.7,1
+Simone Fontecchio,DET,29,SF / PF,6-7,209,75,5.9,2.9,0.9
+Tim Hardaway Jr.,DET,33,SG / SF,6-5,205,77,11,2.4,1.6
+Tobias Harris,DET,32,PF / SF,6-8,226,73,13.7,5.9,2.2
+Tolu Smith,DET,24,C / PF,6-11,,1,14,8,0
+Wendell Moore Jr.,CHA,23,SG / SF,6-5,215,20,3.2,2.2,1.2
+Andrew Wiggins,MIA,30,SF / SG,6-7,197,43,17.6,4.6,2.4
+Brandin Podziemski,GSW,22,SG / PG,6-4,205,64,11.7,5.1,3.4
+Braxton Key,GSW,28,PF / SF,6-8,225,3,1,0.7,0
+Buddy Hield,GSW,32,SG,6-4,220,82,11.1,3.2,1.6
+De'Anthony Melton,BKN,27,SG / PG,6-3,200,6,10.3,3.3,2.8
+Dennis Schröder,DET,31,PG,6-1,175,24,10.6,2.3,4.4
+Draymond Green,GSW,35,PF / C,6-6,230,68,9,6.1,5.6
+Gary Payton II,GSW,32,SG / PG / SF,6-2,195,62,6.5,3,1.3
+Gui Santos,GSW,23,SF / PF,6-6,185,56,4.1,3.1,1.4
+Jackson Rowe,GSW,28,SF / PF,6-7,210,6,3.7,1.8,0.7
+Jimmy Butler III,GSW,35,SF / SG,6-7,230,30,17.9,5.5,5.9
+Jonathan Kuminga,GSW,22,PF / SF,6-7,225,47,15.3,4.6,2.2
+Kevin Knox II,GSW,25,SF / PF,6-8,215,14,3.3,1.2,0.4
+Kevon Looney,GSW,29,C / PF,6-9,222,76,4.5,6.1,1.6
+Kyle Anderson,MIA,31,PF / SF,6-9,230,36,5.3,3.1,2.3
+Lindy Waters III,DET,27,SG / SF,6-6,210,38,5.5,2.5,1.1
+Moses Moody,GSW,23,SG / SF,6-5,211,74,9.8,2.6,1.3
+Pat Spencer,GSW,28,PG / SG,6-3,205,39,2.5,1.2,1.2
+Quinten Post,GSW,25,C / PF,7-0,238,42,8.1,3.5,1.3
+Reece Beekman,BKN,23,PG,6-3,190,2,1,0.5,0.5
+Stephen Curry,GSW,37,PG,6-2,185,70,24.5,4.4,6
+Trayce Jackson-Davis,GSW,25,PF / C,6-9,245,62,6.6,5,1.7
+Yuri Collins,GSW,24,PG,6-0,190,2,1,1.5,2
+Aaron Holiday,HOU,28,PG / SG,6-0,185,62,5.5,1.3,1.3
+Alperen Sengun,HOU,22,C,6-11,243,76,19.1,10.3,4.9
+Amen Thompson,HOU,22,SG / SF,6-7,200,69,14.1,8.2,3.8
+Cam Whitmore,HOU,20,SF / SG,6-7,230,51,9.4,3,1
+David Roddy,HOU,24,SF / PF,6-4,255,3,4.3,1.7,0.7
+Dillon Brooks,HOU,29,SF / SG,6-6,225,75,14,3.7,1.7
+Fred VanVleet,HOU,31,PG,6-0,197,60,14.1,3.7,5.6
+Jabari Smith Jr.,HOU,22,PF / SF,6-10,220,57,12.2,7,1.1
+Jack McVeigh,HOU,29,SF / PF,6-8,215,9,1.6,0.6,0.1
+Jae'Sean Tate,HOU,29,SF / PF,6-4,230,52,3.6,2.3,0.9
+Jalen Green,HOU,23,SG,6-4,186,82,21,4.6,3.4
+Jeff Green,HOU,38,PF / SF,6-8,235,32,5.4,1.8,0.6
+Jock Landale,HOU,29,C,6-11,255,42,4.8,3.3,0.9
+N'Faly Dante,HOU,23,C,6-11,230,4,6,5.3,0.5
+Nate Williams,HOU,26,SG / SF,6-5,205,20,3.3,0.7,0.5
+Reed Sheppard,HOU,21,PG / SG,6-2,185,52,4.4,1.5,1.4
+Steven Adams,HOU,31,C,6-11,265,58,3.9,5.6,1.1
+Tari Eason,HOU,24,SF / PF,6-8,215,57,12,6.4,1.5
+Aaron Nesmith,IND,25,SF / SG,6-6,215,45,12,4,1.2
+Andrew Nembhard,IND,25,PG / SG,6-4,191,65,10,3.3,5
+Ben Sheppard,IND,23,SG / SF,6-6,190,63,5.3,2.8,1.3
+Bennedict Mathurin,IND,23,SG / SF,6-5,210,72,16.1,5.3,1.9
+Enrique Freeman,IND,24,PF / C,6-7,220,22,2.1,1.4,0.4
+Isaiah Jackson,IND,23,PF / C,6-9,205,5,7,5.6,1
+Jahlil Okafor,IND,29,C,6-10,270,1,0,1,1
+James Johnson,IND,38,PF / SF,6-7,240,12,0.7,0.5,0.3
+James Wiseman,IND,24,C / PF,6-11,240,1,6,1,0
+Jarace Walker,IND,21,PF / SF,6-7,235,75,6.1,3.1,1.5
+Johnny Furphy,IND,20,SG / SF,6-9,200,50,2.1,1.4,0.4
+Moses Brown,DAL,25,C,7-2,258,9,3.2,1.4,0
+Myles Turner,IND,29,C,6-11,250,72,15.6,6.5,1.5
+Obi Toppin,IND,27,PF,6-9,220,79,10.5,4,1.6
+Pascal Siakam,IND,31,PF / SF,6-8,245,78,20.2,6.9,3.4
+Quenton Jackson,IND,26,SG / PG,6-5,173,28,5.8,1.6,1.9
+RayJ Dennis,IND,24,PG / SG,6-2,180,11,2.7,1.1,1.3
+T.J. McConnell,IND,33,PG,6-1,190,79,9.1,2.4,4.4
+Thomas Bryant,IND,27,C,6-10,248,56,6.9,3.9,0.9
+Tony Bradley,IND,27,C,6-11,248,14,4.4,3,0.4
+Tristen Newton,MIN,24,PG / SG,6-5,190,5,0.6,0,0.2
+Tyrese Haliburton,IND,25,PG,6-5,185,73,18.6,3.5,9.2
+Amir Coffey,LAC,28,SG / SF,6-7,210,72,9.7,2.2,1.1
+Ben Simmons,LAC,28,PG / SF / PF,6-10,240,18,2.9,3.8,3.1
+Bogdan Bogdanović,LAC,32,SG / SF,6-5,225,30,11.4,3.1,3.2
+Bones Hyland,MIN,24,PG / SG,6-2,169,20,7.2,1.2,1.4
+Cam Christie,LAC,19,SG / SF,6-6,190,13,1.4,0.9,0.5
+Derrick Jones Jr.,LAC,28,SF / PF,6-6,210,77,10.1,3.4,0.8
+Drew Eubanks,LAC,28,C / PF,6-10,245,24,2.7,2.4,0.4
+Ivica Zubac,LAC,28,C,7-0,240,80,16.8,12.6,2.7
+James Harden,LAC,35,SG / PG,6-5,220,79,22.8,5.8,8.7
+Jordan Miller,LAC,25,SF / SG,6-5,194,37,4.1,1.6,0.9
+Kai Jones,DAL,24,PF / C,6-11,221,28,2.2,1.6,0.4
+Kawhi Leonard,LAC,34,SF / PF,6-7,225,37,21.5,5.9,3.1
+Kevin Porter Jr.,MIL,25,SG / PG,6-4,203,45,9.3,3.6,3.2
+Kobe Brown,LAC,25,SF / PF,6-7,250,40,1.9,1.6,0.6
+Kris Dunn,LAC,31,PG / SG,6-3,205,74,6.4,3.4,2.8
+MarJon Beauchamp,NYK,24,SG / SF,6-7,199,3,4,1,0.7
+Mo Bamba,NOP,27,C,7-0,231,28,4.6,4.3,0.6
+Nicolas Batum,LAC,36,SF / PF,6-8,230,78,4,2.8,1.1
+Norman Powell,LAC,32,SG / SF,6-4,215,60,21.8,3.2,2.1
+Patrick Baldwin Jr.,LAC,22,SF / PF,6-9,220,2,3,1.5,0.5
+Patty Mills,LAC,36,PG,6-2,180,12,3.1,0.1,0.4
+Terance Mann,ATL,28,SG / SF,6-5,215,37,6,2.9,1.6
+Trentyn Flowers,LAC,20,SF / SG,6-9,185,6,1.8,0.7,0
+Alex Len,LAL,32,C,7-0,250,10,2.2,3.1,0.8
+Anthony Davis,DAL,32,PF / C,6-10,253,42,25.7,11.9,3.4
+Armel Traore,LAL,22,PF / C,6-9,245,9,1.6,1.7,0.1
+Austin Reaves,LAL,27,SG / PG,6-5,197,73,20.2,4.5,5.8
+Bronny James,LAL,20,PG / SG,6-3,210,27,2.3,0.7,0.8
+Cam Reddish,LAL,25,SF / SG,6-7,217,33,3.2,2,0.7
+Christian Koloko,LAL,25,C,7-0,225,37,2.4,2.5,0.4
+D'Angelo Russell,BKN,29,PG / SG,6-3,193,29,12.4,2.8,4.7
+Dalton Knecht,LAL,24,SG / SF,6-6,215,78,9.1,2.8,0.8
+Dorian Finney-Smith,LAL,32,SF / PF,6-7,220,43,7.9,3.6,1.4
+Gabe Vincent,LAL,29,PG / SG,6-2,200,72,6.4,1.3,1.4
+Jalen Hood-Schifino,PHI,22,PG / SG,6-5,210,2,2,0.5,0.5
+Jarred Vanderbilt,LAL,26,PF / SF,6-8,214,36,4.1,5.1,1.1
+Jaxson Hayes,LAL,25,C / PF,7-0,220,56,6.8,4.8,1
+Jordan Goodwin,LAL,26,PG / SG,6-5,215,29,5.6,3.9,1.4
+LeBron James,LAL,40,SF / PF / PG,6-9,250,70,24.4,7.8,8.2
+Luka Dončić,LAL,26,PG / SG / SF,6-6,230,28,28.2,8.1,7.5
+Markieff Morris,LAL,35,PF / C,6-9,245,8,5.5,1.9,2.1
+Max Christie,DAL,22,SG / SF,6-5,190,46,8.5,2.7,1.4
+Maxwell Lewis,BKN,22,SF / SG,6-7,215,7,0.6,0.3,0.3
+Quincy Olivari,LAL,24,SG,6-3,200,2,1.5,0,0.5
+Rui Hachimura,LAL,27,PF / SF,6-8,230,59,13.1,5,1.4
+Shake Milton,LAL,28,SG / PG,6-5,205,30,3.9,1.8,1.3
+Trey Jemison III,LAL,25,C,6-11,270,22,2.6,2.8,0.3
+Brandon Clarke,MEM,28,PF / C,6-8,215,64,8.3,5.1,1
+Cam Spencer,MEM,25,SG / PG,6-4,205,25,4.2,1.2,1.4
+Colin Castleton,TOR,25,C / PF,6-10,250,10,1.4,0.9,0
+Desmond Bane,ORL,27,SG / SF,6-5,215,69,19.2,6.1,5.3
+GG Jackson,MEM,20,PF / SF,6-9,210,29,7.2,3.2,1
+Ja Morant,MEM,25,PG,6-2,174,50,23.2,4.1,7.3
+Jake LaRavia,SAC,23,SF / PF,6-7,235,47,7.3,4.4,2.8
+Jaren Jackson Jr.,MEM,25,PF / C,6-10,242,74,22.2,5.6,2
+Jay Huff,MEM,27,C / PF,7-1,240,64,6.9,2,0.6
+Jaylen Wells,MEM,21,SF / SG,6-8,,79,10.4,3.4,1.7
+John Konchar,MEM,29,SG / SF,6-5,210,46,2.4,3.3,0.9
+Lamar Stevens,MEM,27,SF / PF,6-7,230,17,4.4,2.2,0.5
+Luke Kennard,MEM,29,SG / SF,6-5,206,65,8.9,2.8,3.3
+Marcus Smart,WAS,31,PG / SG,6-3,220,19,8.7,2.3,3.7
+Marvin Bagley III,MEM,26,PF / C,6-10,235,12,3.6,2.3,0.3
+Santi Aldama,MEM,24,PF / C,7-0,215,65,12.5,6.4,2.9
+Scotty Pippen Jr.,MEM,24,PG,6-1,170,79,9.9,3.3,4.4
+Vince Williams Jr.,MEM,24,SF / SG,6-4,205,27,6.6,3.6,2
+Yuki Kawamura,MEM,24,PG,5-8,159,22,1.6,0.5,0.9
+Zach Edey,MEM,23,C,7-4,305,66,9.2,8.3,1
+Zyon Pullin,MEM,24,PG / SG,6-4,206,3,0,0,0
+Alec Burks,MIA,33,SG / SF,6-5,214,49,7.3,2.5,1.1
+Andrew Wiggins,MIA,30,SF / SG,6-7,197,17,19,4.2,3.3
+Bam Adebayo,MIA,27,C / PF,6-9,255,78,18.1,9.6,4.3
+Davion Mitchell,MIA,26,PG,6-0,202,30,10.3,2.7,5.3
+Dru Smith,MIA,27,SG / PG,6-2,203,14,6.2,2.6,1.6
+Duncan Robinson,MIA,31,SG / SF,6-7,215,74,11,2.3,2.4
+Haywood Highsmith,MIA,28,SF / PF,6-5,220,74,6.5,3.4,1.5
+Isaiah Stevens,MIA,24,PG,6-0,185,3,0,0.7,0
+Jaime Jaquez Jr.,MIA,24,SF / PF,6-6,225,66,8.6,4.4,2.5
+Jimmy Butler III,GSW,35,SF / SG,6-7,230,25,17,5.2,4.8
+Josh Christopher,MIA,23,SG,6-4,215,14,2,0.6,0.6
+Josh Richardson,MIA,31,SG / PG,6-5,200,8,4,1.5,1.5
+Kel'el Ware,MIA,21,C / PF,7-0,230,64,9.3,7.4,0.9
+Keshad Johnson,MIA,24,PF / SF,6-7,225,16,2.7,1.8,0.3
+Kevin Love,MIA,36,PF / C,6-8,251,23,5.3,4.1,1
+Kyle Anderson,MIA,31,PF / SF,6-9,230,25,6.7,3.8,2.6
+Nikola Jović,MIA,22,SF / PF,6-10,205,46,10.7,3.9,2.8
+Pelle Larsson,MIA,24,SG / SF,6-5,215,55,4.6,1.7,1.2
+Terry Rozier,MIA,31,PG / SG,6-1,190,64,10.6,3.7,2.6
+Thomas Bryant,IND,27,C,6-10,248,10,4.1,3.2,0.4
+Tyler Herro,MIA,25,SG / PG,6-5,195,77,23.9,5.2,5.5
+AJ Green,MIL,25,SG,6-4,190,73,7.4,2.4,1.5
+AJ Johnson,WAS,20,PG / SG,6-5,160,7,2.9,1,1
+Andre Jackson Jr.,MIL,23,SG / SF,6-6,209,67,3.4,2.7,1.2
+Bobby Portis,MIL,30,PF / C,6-10,250,49,13.9,8.4,2.1
+Brook Lopez,MIL,37,C,7-1,282,80,13,5,1.8
+Chris Livingston,MIL,21,SF / SG,6-6,220,21,1.4,1.7,0.2
+Damian Lillard,MIL,34,PG,6-2,195,58,24.9,4.7,7.1
+Delon Wright,NYK,33,PG / SG,6-5,185,26,2.5,1.8,1.8
+Gary Trent Jr.,MIL,26,SG / SF,6-5,204,74,11.1,2.3,1.2
+Giannis Antetokounmpo,MIL,30,PF / C / SF,6-11,243,67,30.4,11.9,6.5
+Jamaree Bouyea,MIL,26,PG,6-2,180,5,3.4,1,2
+Jericho Sims,MIL,26,C / PF,6-10,250,14,2.4,4.9,0.8
+Kevin Porter Jr.,MIL,25,SG / PG,6-4,203,30,11.7,3.9,3.7
+Khris Middleton,WAS,33,SF / SG,6-7,222,23,12.6,3.7,4.4
+Kyle Kuzma,MIL,29,PF / SF,6-9,221,33,14.5,5.6,2.2
+Liam Robbins,MIL,25,C,7-0,250,13,0.7,0.9,0.2
+MarJon Beauchamp,NYK,24,SG / SF,6-7,199,26,2,1.2,0.3
+Pat Connaughton,MIL,32,SG / SF,6-5,209,41,5.3,2.7,1.7
+Pete Nance,MIL,25,PF / C,6-10,225,6,3.8,1.8,1.2
+Ryan Rollins,MIL,22,PG / SG,6-3,180,56,6.2,1.9,1.9
+Stanley Umude,MIL,26,SG / SF,6-6,210,22,0.7,0.8,0.2
+Taurean Prince,MIL,31,SF / PF,6-6,218,80,8.2,3.6,1.9
+Tyler Smith,MIL,20,PF / C,6-9,224,23,2.9,1.1,0.2
+Anthony Edwards,MIN,23,SG / SF,6-4,225,79,27.6,5.7,4.5
+Bones Hyland,MIN,24,PG / SG,6-2,169,4,1.3,0.3,1
+Daishen Nix,MIN,23,PG / SG,6-4,238,3,0.3,1.3,1
+Donte DiVincenzo,MIN,28,SG / PG,6-4,203,62,11.7,3.7,3.6
+Jaden McDaniels,MIN,24,PF / SF,6-9,185,82,12.2,5.7,2
+Jaylen Clark,MIN,23,SG / SF,6-4,205,40,4.1,1.3,0.7
+Jesse Edwards,MIN,25,C,7-0,236,2,0,0,0.5
+Joe Ingles,MIN,37,SF / PF,6-8,220,19,0.8,0.6,1.2
+Josh Minott,MIN,22,SF / PF,6-8,205,46,2.6,1,0.4
+Julius Randle,MIN,30,PF / C,6-9,250,69,18.7,7.1,4.7
+Leonard Miller,MIN,21,PF / SF,6-10,220,13,1.5,0.8,0
+Luka Garza,MIN,26,C / PF,6-10,243,39,3.5,1.4,0.3
+Mike Conley,MIN,37,PG,6-0,175,71,8.2,2.6,4.5
+Naz Reid,MIN,25,PF / C,6-9,264,80,14.2,6,2.3
+Nickeil Alexander-Walker,MIN,26,SG / PG,6-5,205,82,9.4,3.2,2.7
+PJ Dozier,MIN,28,SG / PG,6-6,205,9,0.8,0.6,0.6
+Rob Dillingham,MIN,20,PG / SG,6-3,175,49,4.5,1,2
+Rudy Gobert,MIN,33,C,7-1,258,72,12,10.9,1.8
+Terrence Shannon Jr.,MIN,24,SG / SF,6-6,215,32,4.3,1.5,1
+Tristen Newton,MIN,24,PG / SG,6-5,190,3,0,1.3,0.3
+Antonio Reeves,NOP,24,SG,6-5,205,44,6.9,1.4,0.9
+Brandon Boston,NOP,23,SG / SF,6-6,188,42,10.7,3.2,2.2
+Brandon Ingram,TOR,27,SF / PF,6-8,190,18,22.2,5.6,5.2
+Bruce Brown,NOP,28,SG / SF / PG,6-4,202,23,8.2,4.2,2.4
+CJ McCollum,NOP,33,SG / PG,6-3,190,56,21.1,3.8,4.1
+Daniel Theis,NOP,33,C / PF,6-8,245,38,4.3,4.3,1.6
+Dejounte Murray,NOP,28,PG / SG,6-4,180,31,17.5,6.5,7.4
+Elfrid Payton,NOP,31,PG,6-3,195,18,4.4,3.7,8.1
+Herbert Jones,NOP,26,SF / PF / SG,6-7,206,20,10.3,3.9,3.3
+Jamal Cain,NOP,26,SF / SG,6-6,191,37,5.3,2.3,0.6
+Javonte Green,CLE,31,SG / SF,6-5,205,50,5.8,3.6,0.9
+Jaylen Nowell,WAS,25,SG,6-4,201,8,8.4,2.5,2.3
+Jeremiah Robinson-Earl,NOP,24,PF / C,6-8,240,66,6.3,4.8,1.3
+Jordan Hawkins,NOP,23,SG,6-5,190,56,10.8,2.8,1.2
+Jose Alvarado,NOP,27,PG,6-0,179,56,10.3,2.4,4.6
+Karlo Matković,NOP,24,PF / C,6-10,231,42,7.7,5,1.1
+Keion Brooks Jr.,NOP,24,SF / PF,6-7,210,14,10.1,4.1,0.9
+Kelly Olynyk,NOP,34,C / PF,6-11,240,20,10.7,5.9,3.6
+Kylor Kelley,LAL,27,C,7-0,215,3,3.3,6,1
+Lester Quinones,NOP,24,SG / PG,6-4,208,9,8.6,1.7,2.6
+Mo Bamba,NOP,27,C,7-0,231,4,2.5,6.3,0.5
+Trey Jemison III,LAL,25,C,6-11,270,16,2.4,2.8,0.6
+Trey Murphy III,NOP,25,SF / PF,6-8,206,53,21.2,5.1,3.5
+Yves Missi,NOP,21,C / PF,6-11,235,73,9.1,8.2,1.4
+Zion Williamson,NOP,24,PF / SF,6-6,284,30,24.6,7.2,5.3
+Anton Watson,NYK,24,SF / PF,6-8,225,9,0.9,0.3,0.2
+Ariel Hukporti,NYK,23,C,6-11,246,25,1.9,2,0.4
+Cameron Payne,NYK,30,PG,6-3,183,72,6.9,1.4,2.8
+Delon Wright,NYK,33,PG / SG,6-5,185,14,4.3,1.4,2.1
+Jacob Toppin,ATL,25,SF / PF,6-8,200,16,0.4,0.7,0.3
+Jalen Brunson,NYK,28,PG,6-2,190,65,26,2.9,7.3
+Jericho Sims,MIL,26,C / PF,6-10,250,39,1.6,3.3,0.6
+Josh Hart,NYK,30,SG / SF,6-4,215,77,13.6,9.6,5.9
+Karl-Anthony Towns,NYK,29,C / PF,7-0,248,72,24.4,12.8,3.1
+Kevin McCullar Jr.,NYK,24,SG / SF,6-6,210,4,1.5,2,0.5
+Landry Shamet,NYK,28,SG,6-4,190,50,5.7,1.2,0.5
+MarJon Beauchamp,NYK,24,SG / SF,6-7,199,6,2.5,1.5,0.2
+Matt Ryan,NOP,28,SF / SG,6-6,215,19,1.5,0.4,0.2
+Mikal Bridges,NYK,28,SF / SG,6-6,209,82,17.6,3.2,3.7
+Miles McBride,NYK,24,PG / SG,6-1,195,64,9.5,2.5,2.9
+Mitchell Robinson,NYK,27,C,7-0,240,17,5.1,5.9,0.8
+OG Anunoby,NYK,27,SF / PF,6-7,240,74,18,4.8,2.2
+P.J. Tucker,NYK,40,PF / SF,6-5,245,3,3,2.7,0
+Pacôme Dadiet,NYK,19,SF / SG,6-8,210,18,1.7,1,0.3
+Precious Achiuwa,NYK,25,PF / C,6-8,243,57,6.6,5.6,1
+Tyler Kolek,NYK,24,PG,6-3,195,41,2,0.7,1.7
+Aaron Wiggins,OKC,26,SG / SF,6-5,190,76,12,3.9,1.8
+Adam Flagler,OKC,25,PG / SG,6-3,180,37,1.8,0.7,0.3
+Ajay Mitchell,OKC,23,PG / SG,6-5,190,36,6.5,1.9,1.8
+Alex Caruso,OKC,31,SG / PG,6-5,186,54,7.1,2.9,2.5
+Alex Ducas,OKC,24,SF / SG,6-7,220,21,1.7,1.2,0.2
+Alex Reese,PHI,26,PF,6-9,245,1,2,1,0
+Branden Carlson,OKC,26,C / PF,7-0,220,32,3.8,1.7,0.4
+Cason Wallace,OKC,21,PG / SG,6-3,195,68,8.4,3.4,2.5
+Chet Holmgren,OKC,23,C / PF,7-1,208,32,15,8,2
+Dillon Jones,OKC,23,SG / SF,6-5,235,54,2.5,2.2,1.1
+Isaiah Hartenstein,OKC,27,C,7-0,250,57,11.2,10.7,3.8
+Isaiah Joe,OKC,25,SG,6-3,165,74,10.2,2.6,1.6
+Jalen Williams,OKC,24,SF / SG,6-5,211,69,21.6,5.3,5.1
+Jaylin Williams,OKC,23,PF / C,6-9,240,47,5.9,5.6,2.6
+Kenrich Williams,OKC,30,SF / PF,6-6,210,69,6.3,3.5,1.4
+Luguentz Dort,OKC,26,SG / SF,6-4,220,71,10.1,4.1,1.6
+Malevy Leons,OKC,25,SF / PF,6-9,210,6,0.3,0.5,0.2
+Ousmane Dieng,OKC,22,SF / PF,6-9,185,37,3.8,2.2,0.8
+Shai Gilgeous-Alexander,OKC,26,PG / SG,6-6,195,76,32.7,5,6.4
+Anthony Black,ORL,21,PG / SG,6-7,200,78,9.4,2.9,3.1
+Caleb Houstan,ORL,22,SF / SG,6-8,205,58,4.1,1.3,0.6
+Cole Anthony,MEM,25,PG / SG,6-2,185,67,9.4,3,2.9
+Cory Joseph,ORL,33,PG,6-2,200,50,3.5,1.5,1.4
+Franz Wagner,ORL,23,SF / PF,6-10,220,60,24.2,5.7,4.7
+Gary Harris,ORL,30,SG,6-4,210,48,3,1.3,0.6
+Goga Bitadze,ORL,25,C,6-10,250,70,7.2,6.6,2
+Jalen Suggs,ORL,24,PG / SG,6-5,205,35,16.2,4,3.7
+Jett Howard,ORL,21,SG / SF,6-6,215,60,4.5,1.2,0.7
+Jonathan Isaac,ORL,27,PF / SF,6-10,230,71,5.4,4.4,0.6
+Kentavious Caldwell-Pope,MEM,32,SG / SF,6-5,204,77,8.7,2.2,1.8
+Mac McClung,ORL,26,PG / SG,6-2,185,2,0,0.5,1.5
+Moritz Wagner,ORL,28,C / PF,6-11,245,30,12.9,4.9,1.4
+Paolo Banchero,ORL,22,PF / SF,6-10,250,46,25.9,7.5,4.8
+Trevelin Queen,ORL,28,SG / PG,6-5,190,31,4.9,1.7,1.2
+Tristan da Silva,ORL,24,SF / PF,6-8,217,74,7.2,3.3,1.5
+Wendell Carter Jr.,ORL,26,C / PF,6-10,270,68,9.1,7.2,2
+Adem Bona,PHI,22,C / PF,6-10,235,58,5.8,4.2,0.5
+Alex Reese,PHI,26,PF,6-9,245,14,5.3,3.3,0.3
+Andre Drummond,PHI,31,C,6-11,279,40,7.3,7.8,0.9
+Caleb Martin,DAL,29,SF / PF,6-5,205,31,9.1,4.4,2.2
+Chuma Okeke,CLE,26,PF / SF,6-7,229,7,6.9,6.1,1.9
+Colin Castleton,TOR,25,C / PF,6-10,250,5,6,7.4,2
+David Roddy,HOU,24,SF / PF,6-4,255,3,6,3,1
+Eric Gordon,PHI,36,SG / PG,6-3,215,39,6.8,1.2,1.7
+Guerschon Yabusele,PHI,29,PF,6-8,265,70,11,5.6,2.1
+Isaiah Mobley,PHI,25,PF / C,6-8,238,1,6,4,5
+Jalen Hood-Schifino,PHI,22,PG / SG,6-5,210,13,7.8,2,2.8
+Jared Butler,PHI,24,PG / SG,6-3,193,28,11.5,2.5,4.9
+Jared McCain,PHI,21,PG / SG,6-3,195,23,15.3,2.4,2.6
+Jeff Dowtin Jr.,PHI,28,PG,6-3,177,41,7,1.5,1.9
+Joel Embiid,PHI,31,C,7-0,280,19,23.8,8.2,4.5
+Justin Edwards,PHI,21,SG / SF,6-7,203,44,10.1,3.4,1.6
+KJ Martin,UTA,24,SF / PF,6-6,215,24,6.4,3,0.8
+Kelly Oubre Jr.,PHI,29,SF / SG,6-8,203,60,15.1,6.1,1.8
+Kyle Lowry,PHI,39,PG,6-0,196,35,3.9,1.9,2.7
+Lester Quinones,NOP,24,SG / PG,6-4,208,4,2.3,1,0.3
+Lonnie Walker IV,PHI,26,SG / SF,6-4,204,20,12.4,3.2,2.5
+Marcus Bagley,PHI,23,SF / SG,6-6,217,10,6.7,7,1
+Oshae Brissett,PHI,27,SF / PF,6-7,210,6,8.7,3.7,0.7
+Paul George,PHI,35,SG / SF,6-8,220,41,16.2,5.3,4.3
+Pete Nance,MIL,25,PF / C,6-10,225,7,2.1,1.4,0.4
+Phillip Wheeler,PHI,23,PF / SF,6-8,185,5,1.6,1.6,0.4
+Quentin Grimes,PHI,25,SG / SF,6-4,210,28,21.9,5.2,4.5
+Reggie Jackson,PHI,35,PG,6-2,208,31,4.4,1.4,1.5
+Ricky Council IV,PHI,23,SG / SF,6-6,207,73,7.3,2.9,1.3
+Tyrese Maxey,PHI,24,PG / SG,6-2,200,52,26.3,3.3,6.1
+Bol Bol,PHX,25,SF / PF / C,7-3,220,36,6.8,2.9,0.6
+Bradley Beal,PHX,32,SG / PG,6-4,207,53,17,3.3,3.7
+Cody Martin,PHX,29,SG / SF,6-6,205,14,3.7,3.4,1.1
+Collin Gillespie,PHX,26,PG / SG,6-1,195,33,5.9,2.4,2.4
+Damion Lee,PHX,32,SG / SF,6-6,210,25,3.3,0.8,0.4
+Devin Booker,PHX,28,SG / PG,6-6,206,75,25.6,4.1,7.1
+Grayson Allen,PHX,29,SG / SF,6-4,198,64,10.6,3,2.1
+Jalen Bridges,PHX,24,SF / PF,6-8,225,8,1.1,0.5,0
+Josh Okogie,CHA,26,SG / SF,6-4,213,25,6,2.9,0.6
+Jusuf Nurkić,CHA,30,C,7-0,290,25,8.6,9.2,1.9
+Kevin Durant,PHX,36,SF / PF,6-11,240,62,26.6,6,4.2
+Mason Plumlee,PHX,35,C,6-10,254,74,4.5,6.1,1.8
+Monté Morris,PHX,30,PG,6-2,183,45,5.2,1.5,1.6
+Nick Richards,PHX,27,C,7-0,245,36,9.5,8.6,0.6
+Oso Ighodaro,PHX,22,PF / C,7-0,235,61,4.2,3.6,1.2
+Royce O'Neale,PHX,32,SF / PF,6-6,226,75,9.1,4.7,2.2
+Ryan Dunn,PHX,22,SF / SG,6-8,216,74,6.9,3.6,0.8
+TyTy Washington Jr.,PHX,23,PG / SG,6-3,195,16,2.2,0.8,1
+Tyus Jones,PHX,29,PG,6-1,196,81,10.2,2.4,5.3
+Vasilije Micic,PHX,31,PG,6-3,188,5,0,0.4,0.2
+Anfernee Simons,POR,26,SG / PG,6-3,200,70,19.3,2.7,4.8
+Bryce McGowens,POR,22,SG / SF,6-6,190,13,1,0.2,0.2
+Dalano Banton,POR,25,PG / SG / SF,6-8,203,67,8.3,2,2.4
+Deandre Ayton,POR,26,C,7-0,252,40,14.4,10.2,1.6
+Deni Avdija,POR,24,SF / PF,6-9,240,72,16.9,7.3,3.9
+Donovan Clingan,POR,21,C,7-2,280,67,6.5,7.9,1.1
+Duop Reath,POR,29,C / PF,6-9,245,46,4.2,2,0.6
+Jabari Walker,POR,22,PF / SF,6-7,237,60,5.2,3.5,0.6
+Jerami Grant,POR,31,PF / SF,6-7,210,47,14.4,3.5,2.1
+Justin Minaya,POR,26,SF / SG,6-5,205,19,0.9,0.5,0.4
+Kris Murray,POR,24,PF / SF,6-8,216,69,4.2,2.6,1
+Matisse Thybulle,POR,28,SG / SF,6-5,201,15,7.5,3.5,1.9
+Rayan Rupert,POR,21,SG / SF,6-6,195,52,3,1.3,0.5
+Robert Williams III,POR,27,C,6-9,249,20,5.8,5.9,1.1
+Scoot Henderson,POR,21,PG,6-3,206,66,12.7,3,5.1
+Shaedon Sharpe,POR,22,SG / SF,6-5,208,72,18.5,4.5,2.8
+Sidy Cissoko,POR,21,SG / SF,6-6,200,5,2,2.2,1.8
+Taze Moore,POR,27,SG / PG,6-5,195,2,3,4,0.5
+Toumani Camara,POR,25,SF / PF,6-7,229,78,11.3,5.8,2.2
+Alex Len,LAL,32,C,7-0,250,36,1.4,1.8,0.8
+Colby Jones,WAS,23,SG / SF,6-6,207,24,1.1,1,0.3
+De'Aaron Fox,SAS,27,PG,6-3,185,45,25,5,6.1
+DeMar DeRozan,SAC,35,SF / SG / PF,6-6,220,77,22.2,3.9,4.4
+Devin Carter,SAC,23,PG / SG,6-2,195,36,3.8,2.1,1.1
+Domantas Sabonis,SAC,29,C / PF,6-10,240,70,19.1,13.9,6
+Doug McDermott,SAC,33,SF / PF,6-6,225,42,3.5,0.5,0.2
+Isaac Jones,SAC,24,PF / C,6-9,245,40,3.4,1.4,0.3
+Isaiah Crawford,SAC,23,SF / PF,6-6,220,15,0.9,0.5,0.1
+Jae Crowder,SAC,34,SF / PF,6-6,235,9,2.6,2.2,0.7
+Jake LaRavia,SAC,23,SF / PF,6-7,235,19,6.1,2.8,1.3
+Jonas Valančiūnas,SAC,33,C,6-11,265,32,8.7,7,1.8
+Jordan McLaughlin,SAS,29,PG,6-0,185,28,1.9,0.8,0.9
+Keegan Murray,SAC,24,PF / SF,6-8,225,76,12.4,6.7,1.4
+Keon Ellis,SAC,25,SG / SF,6-4,175,80,8.3,2.7,1.5
+Kevin Huerter,CHI,26,SG / SF,6-7,198,43,7.9,2.8,1.7
+Malik Monk,SAC,27,SG / PG,6-3,200,65,17.2,3.8,5.6
+Markelle Fultz,SAC,27,PG / SG,6-4,209,21,2.9,1,1.3
+Mason Jones,SAC,26,SG / PG,6-4,200,10,2.3,0.9,1.1
+Orlando Robinson,TOR,24,C,6-10,235,9,2.1,1.6,1
+Skal Labissiere,SAC,29,PF / C,6-10,235,4,1.3,0.8,0.3
+Terence Davis,SAC,28,SG / SF,6-4,201,1,0,1,1
+Terry Taylor,SAC,25,SF / PF,6-4,230,3,0,0.3,0.7
+Trey Lyles,SAC,29,PF / C,6-9,234,69,6.5,4.6,1.2
+Zach LaVine,SAC,30,SG / SF,6-5,200,32,22.4,3.5,3.8
+Bismack Biyombo,SAS,32,C,6-8,255,28,5.1,5.6,1.1
+Blake Wesley,SAS,22,PG / SG,6-3,185,58,3.7,1.1,2
+Charles Bassey,SAS,24,C / PF,6-10,230,36,4.4,4.2,0.5
+Chris Paul,SAS,40,PG,6-0,175,82,8.8,3.6,7.4
+David Duke Jr.,SAS,25,SG / PG,6-4,204,6,2.7,0.8,0.7
+De'Aaron Fox,SAS,27,PG,6-3,185,17,19.7,4.3,6.8
+Devin Vassell,SAS,24,SG / SF,6-5,200,64,16.3,4,2.9
+Harrison Barnes,SAS,33,SF / PF,6-8,225,82,12.3,3.8,1.7
+Harrison Ingram,SAS,22,SF / PF,6-5,230,5,0.8,1.8,0.6
+Jeremy Sochan,SAS,22,PF / SF,6-8,230,54,11.4,6.5,2.4
+Jordan McLaughlin,SAS,29,PG,6-0,185,18,2.5,0.5,1.5
+Julian Champagnie,SAS,24,SF / PF,6-7,217,82,9.9,3.9,1.4
+Keldon Johnson,SAS,25,SF / PF,6-5,220,77,12.7,4.8,1.6
+Malaki Branham,SAS,22,SG / SF,6-4,180,47,5,1.1,0.8
+Riley Minix,SAS,24,SF / PF,6-7,230,1,0,2,0
+Sandro Mamukelashvili,SAS,26,PF / C,6-9,240,61,6.3,3.1,0.8
+Sidy Cissoko,POR,21,SG / SF,6-6,200,17,1.3,0.6,0.4
+Stephon Castle,SAS,20,PG / SG,6-6,215,81,14.7,3.7,4.1
+Tre Jones,CHI,25,PG,6-1,185,28,4.4,2.1,3.7
+Victor Wembanyama,SAS,21,PF / C,7-3,235,46,24.3,11,3.7
+Zach Collins,CHI,27,C / PF,6-11,250,36,4.6,2.8,1.4
+A.J. Lawson,TOR,24,SG / SF,6-6,179,26,9.1,3.3,1.2
+Bruce Brown,NOP,28,SG / SF / PG,6-4,202,18,8.4,3.8,1.6
+Bruno Fernando,TOR,26,C / PF,6-9,240,17,3.4,3,1.1
+Chris Boucher,TOR,32,PF / C,6-9,200,50,10,4.5,0.7
+Cole Swider,IND,26,SF / PF,6-8,220,8,7.4,3.1,0.3
+Colin Castleton,TOR,25,C / PF,6-10,250,11,7.2,6.9,1.6
+D.J. Carton,TOR,24,PG / SG,6-3,200,4,0.8,1,0.8
+Davion Mitchell,MIA,26,PG,6-0,202,44,6.3,1.9,4.6
+Garrett Temple,TOR,39,SG / SF,6-5,195,28,1.9,1,1.1
+Gradey Dick,TOR,21,SG / SF,6-6,200,54,14.4,3.6,1.8
+Immanuel Quickley,TOR,26,PG / SG,6-2,190,33,17.1,3.5,5.8
+Ja'Kobe Walter,TOR,20,SG / SF,6-5,180,52,8.6,3.1,1.6
+Jakob Poeltl,TOR,29,C,7-0,260,57,14.5,9.6,2.8
+Jamal Shead,TOR,22,PG,6-1,200,75,7.1,1.5,4.2
+Jamison Battle,TOR,24,SF / PF,6-7,220,59,7.1,2.7,0.9
+Jared Rhoden,TOR,25,SG / SF,6-5,210,10,11.4,3.8,1.4
+Jonathan Mogbo,TOR,23,PF / SF,6-9,225,63,6.2,4.9,2.3
+Kelly Olynyk,NOP,34,C / PF,6-11,240,24,7.1,3.7,2.3
+Ochai Agbaji,TOR,25,SG / SF,6-5,215,64,10.4,3.8,1.5
+Orlando Robinson,TOR,24,C,6-10,235,35,8.1,5.9,1.9
+RJ Barrett,TOR,25,SF / SG,6-6,214,58,21.1,6.3,5.4
+Scottie Barnes,TOR,23,SF / PF,6-7,237,65,19.3,7.7,5.8
+Ulrich Chomche,TOR,19,C / PF,6-11,235,7,0.7,1.1,0.3
+Brice Sensabaugh,UTA,21,SG / SF,6-5,235,71,10.9,3,1.5
+Cody Williams,UTA,20,SF / SG,6-7,190,50,4.6,2.3,1.2
+Collin Sexton,UTA,26,PG / SG,6-3,190,63,18.4,2.7,4.2
+Drew Eubanks,LAC,28,C / PF,6-10,245,37,5.8,4.5,1.2
+Elijah Harkless,UTA,25,SG / SF,6-3,195,10,3.2,2.1,0.8
+Isaiah Collier,UTA,20,PG / SG,6-3,210,71,8.7,3.3,6.3
+Jaden Springer,UTA,22,SG / PG,6-4,202,17,3.8,2,1.4
+John Collins,UTA,27,PF / C,6-9,226,40,19,8.2,2
+Johnny Juzang,UTA,24,SG / SF,6-5,226,64,8.9,2.9,1.1
+Jordan Clarkson,UTA,33,SG / PG,6-3,194,37,16.2,3.2,3.7
+KJ Martin,UTA,24,SF / PF,6-6,215,19,6.3,2.8,1.5
+Keyonte George,UTA,21,PG / SG,6-4,185,67,16.8,3.8,5.6
+Kyle Filipowski,UTA,21,PF / C,6-11,250,72,9.6,6.1,1.9
+Lauri Markkanen,UTA,28,PF / SF,7-0,240,47,19,5.9,1.5
+Micah Potter,UTA,27,C / PF,6-9,248,38,4.3,4.3,0.8
+Oscar Tshiebwe,UTA,25,C / PF,6-8,255,14,7.6,8.7,0.6
+Patty Mills,LAC,36,PG,6-2,180,17,4.4,1.2,1.2
+Svi Mykhailiuk,UTA,28,SG / SF,6-7,205,38,8.8,2.4,2
+Taylor Hendricks,UTA,21,PF,6-9,215,3,4.7,5,0.7
+Walker Kessler,UTA,23,C,7-0,245,58,11.1,12.2,1.7
+AJ Johnson,WAS,20,PG / SG,6-5,160,22,9.1,2.4,3.1
+Alex Sarr,WAS,20,PF / C,7-0,205,67,13,6.5,2.4
+Anthony Gill,WAS,32,PF / C,6-8,230,51,2.5,1.3,0.3
+Bilal Coulibaly,WAS,20,SG / SF,6-8,195,59,12.3,5,3.4
+Bub Carrington,WAS,19,PG / SG,6-4,190,82,9.8,4.2,4.4
+Colby Jones,WAS,23,SG / SF,6-6,207,15,8.7,4.3,2.5
+Corey Kispert,WAS,26,SF / SG,6-6,224,61,11.6,3,1.7
+JT Thor,WAS,22,PF,6-9,203,11,3.9,3.8,0.5
+Jalen McDaniels,SAC,27,SF / PF,6-9,190,4,0,0,0.3
+Jared Butler,PHI,24,PG / SG,6-3,193,32,6.9,1.3,2.6
+Jaylen Martin,WAS,21,SG / SF,6-6,216,13,5.8,3.4,1.3
+Johnny Davis,WAS,23,SG,6-4,195,34,2.4,1.1,0.3
+Jonas Valančiūnas,SAC,33,C,6-11,265,49,11.5,8.2,2.2
+Jordan Poole,WAS,26,SG / PG,6-4,194,68,20.5,3,4.5
+Justin Champagnie,WAS,24,SF / SG,6-6,206,62,8.8,5.7,1
+Khris Middleton,WAS,33,SF / SG,6-7,222,14,10.7,3.7,3.4
+Kyle Kuzma,MIL,29,PF / SF,6-9,221,32,15.2,5.8,2.5
+Kyshawn George,WAS,21,SG / SF,6-8,200,68,8.7,4.2,2.5
+Malcolm Brogdon,WAS,32,PG / SG,6-4,229,24,12.7,3.8,4.1
+Marcus Smart,WAS,31,PG / SG,6-3,220,15,9.3,1.9,2.5
+Marvin Bagley III,MEM,26,PF / C,6-10,235,19,4.9,2.9,0.4
+Patrick Baldwin Jr.,LAC,22,SF / PF,6-9,220,22,2.1,1,0.1
+Richaun Holmes,WAS,31,C / PF,6-9,235,31,7.4,5.7,1.4
+Tristan Vukcevic,WAS,22,PF / C,7-0,220,35,9.4,3.7,1.1
