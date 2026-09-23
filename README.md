@@ -1,61 +1,44 @@
-# Clustering-and-Classifying-NBA-Player-Roles
-Objective: Investigate whether physical and demographic profiles (Height, Weight, Age, Position) can predict a player's role on the court.
-Approach: Instead of using subjective labels, we let the data determine natural player groupings based on actual performance stats.
+# NBA Player Role Analysis
 
-## Data Collection & Preprocessing:
-### 1. Data Source:
-#### Official NBA Stats (2024-25 Season).
-#### Type: Real-world player statistics.
-#### Scale: 659 raw entries → 550 unique players after cleaning.
+This project analyzes 2024–25 NBA player data to identify player roles and predict them from player attributes.
 
-### 2. Key Preprocessing Steps:
-#### *Unit Standardization*: Converted Height to numerical metric units(cm).
-#### *Handling Traded Players*:
-**Problem: Players traded mid-season appear multiple times.**
-**Solution: Sorted by Games Played (GP) and kept only the record with the most games to ensure statistical significance.**
-#### Dara Quality: Remove rows with missing values
+## What the notebook does
 
-## Stage 1: K-Mean Clustering:
-#### Features selected: 
-#### Points Per Game (PTS) → Scoring Ability
-#### Rebounds Per Game (REB) → Interior/Defense Presence
-#### Assists Per Game (AST) → Playmaking Ability
-#### These variables represent the core dimensions of basketball impact.
+1. Cleans the data by removing missing weights, converting height to centimeters, and keeping each player's team record with the most games played.
+2. Uses K-Means clustering on points, rebounds, and assists per game to group players into four roles: **Scoring Playmaker**, **Rebounding Big**, **Role Player**, and **Bench Player**.
+3. Trains Decision Tree, K-Nearest Neighbors, and Random Forest classifiers to predict those roles from height, weight, age, and position. It compares the models with accuracy, classification reports, and confusion matrices.
 
-## Stage 2: Decision Tree:
-#### Features used: 'Height', 'Weight', 'Age', 'Pos_code'.
+## Run the project
 
-## Stage 3: Random Forest:
-### Key takeaways: 
-#### Weight is the most important feature
-#### Age and Height also strongly contribute to the model 
-#### Pos_code plays a smaller role
+Install the required Python packages:
 
-## Stage 4: KNN:
-### Main Question: Can simple traits like height, weight, age, position, and team help us predict a player’s data-defined role?
+```bash
+pip install pandas matplotlib seaborn scikit-learn jupyter
+```
 
-#### K = 3 gave the best performance for our model.
-#### Overall accuracy ≈ 36% → moderate but not strong
-#### Players with similar builds can still have very different roles.
-#### Confirms that body profile alone cannot define a player type.
+Place `Project Code.ipynb` and `IS407 Final Project Data - 24-25 NBA Player Data.csv` in the same folder. Open the notebook with Jupyter and run its cells from top to bottom.
 
-## Model Conclusion:
-### KNN Accuracy：           0.35757575757575756
-### Decision Tree Accuracy：  0.42424242424242425
-### Random Forest Accuracy：  0.44242424242424244
+```bash
+jupyter notebook "Project Code.ipynb"
+```
 
-#### Random Forest performed the best overall, showing more stable predictions
-#### The decision tree did slightly worse but was still better than KNN
-#### KNN struggled the most, meaning physical traits alone are not strong predictors
-#### All models show limited accuracy, confirming that player roles cannot be determined only by body profile
+The notebook displays the clustering plots, model results, and feature importance charts.
 
-## Project outcomes:
-#### Basic physical traits (height, weight, age, position, team) do not fully define a player’s role
-#### Players with similar builds can develop completely different playstyles
-#### Physical data gives early hints, but skills, coaching, and opportunity shape real success
-#### Shows the uncertainty in predicting roles based only on appearance
-#### Highlights why teams must rely on scouting, analytics, and player development
+## Motivation
 
+Traditional positions such as guard, forward, and center do not always describe what a player contributes on the court. This project explores whether basic game statistics can reveal different playing styles. It then asks a second question: can we estimate a player's statistical role using only their physical attributes, age, and listed position?
 
+## Method
 
+The notebook first checks missing values, converts heights to centimeters, and handles players with multiple team records by keeping the record with the most games played. It also plots correlations among numerical variables to explore the data.
 
+For clustering, it standardizes points (`PTS`), rebounds (`REB`), and assists (`AST`) and plots the elbow curve for 1–10 clusters. The notebook uses four clusters and assigns each one a descriptive name based on its average statistics. Scatter plots show how the groups differ.
+
+For classification, it uses height, weight, age, and the player's primary position as inputs. A 70/30 train/test split is used to compare a Decision Tree, K-Nearest Neighbors, and Random Forest. The notebook reports accuracy, classification reports, and confusion matrices; it also displays the Decision Tree and Random Forest feature importances.
+
+## Limitations and future improvements
+
+- **The role names are interpretations.** K-Means finds groups from three statistics; the labels are assigned afterward. The classification models predict these generated groups, so their accuracy does not show that the roles match expert judgments.
+- **The features are limited.** Points, rebounds, and assists leave out defense, efficiency, and playing time. Adding these could produce more meaningful groups.
+- **The data covers one season.** Testing on another NBA season would show whether the same roles and predictions hold up over time.
+- **The evaluation could be stronger.** Cluster labels are created before the train/test split, and four clusters were selected from the elbow plot. Future work could compare cluster counts with silhouette scores, tune the classifiers with cross-validation, and evaluate against independently labeled player roles.
